@@ -11,7 +11,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 ## 🛠️ Skills
 
 **Das kann ich schon:**
-`SEO` `Content-Strategie` `WordPress` `WooCommerce` `Google Analytics 4` `Search Console` `HTML` `CSS`
+`SEO` `Content-Strategie` `WordPress` `WooCommerce` `Google Analytics 4` `Search Console` `HTML` `CSS` `SCSS` `Bootrstrap`
 
 **Das lerne ich gerade:**
 `JavaScript` `React` `Node.js` `Git`
