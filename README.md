@@ -1,9 +1,6 @@
 # Hi, ich bin Katharina 👋
-
 Ich komme aus dem Content & SEO – und lerne gerade das Handwerk dahinter.
-
 Nach Jahren als Web & Content Specialist (u.a. Deutscher Sportverlag) und dem Aufbau meines eigenen WooCommerce-Shops bringe ich mir aktuell Frontend-Entwicklung bei: JavaScript, React, HTML/CSS – mit dem Ziel, nicht nur Content zu denken, sondern ihn auch technisch umzusetzen.
-
 Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX und technischer Umsetzung. Ich möchte Websites nicht nur befüllen – ich möchte verstehen, wie sie funktionieren.
 
 ---
@@ -26,7 +23,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
 | [🐾 Lilyversell E-Commerce](https://github.com/katharina-erfling/lilyversell-ecommerce-business) | Vollständiges E-Commerce-Konzept für meinen eigenen Handmade-Shop – inkl. Marktanalyse, SEO-Strategie, Shop-Setup und Performance-Monitoring. Abschlussarbeit der E-Commerce-Manager:in-Zertifizierung (GFN) mit 98%. | `WooCommerce` `GA4` `SEO` `SISTRIX` |
-| 🎨 Frontend-Übungen *(coming soon)* | Kursbegleitende HTML/CSS-Projekte: diverse Landing Pages, Layouts und UI-Komponenten | `HTML` `CSS` `SCSS` `Responsive` |
+| [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
 
 ---
 
