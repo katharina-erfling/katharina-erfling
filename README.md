@@ -30,6 +30,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML` `CSS3` `Responsive` |
 | [🦕 Nessie](https://github.com/katharina-erfling/css_nessie) | Responsiver Frontend-Prototype einer Service-Partner-Seite mit fixierter Navigation, Hero-Section, scrollbarer Tabelle mit Status-Badges und Scroll-to-top-Funktion. | `HTML5` `CSS3` `Responsive` |
 | [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `Responsive` |
+| [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
 ---
 <br>
 
