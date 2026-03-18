@@ -3,7 +3,7 @@ Ich komme aus dem Content & SEO – und lerne gerade das Handwerk dahinter.
 Nach Jahren als Web & Content Specialist (u.a. Deutscher Sportverlag) und dem Aufbau meines eigenen WooCommerce-Shops bringe ich mir aktuell Frontend-Entwicklung bei: JavaScript, React, HTML/CSS – mit dem Ziel, nicht nur Content zu denken, sondern ihn auch technisch umzusetzen.
 Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX und technischer Umsetzung. Ich möchte Websites nicht nur befüllen – ich möchte verstehen, wie sie funktionieren.
 
-*📍 Bergisch Gladbach / Köln · offen für Remote & Hybrid*
+<sub>*📍 Bergisch Gladbach / Köln · offen für Remote & Hybrid*</sub>
 ---
 
 ## 🛠️ Skills
