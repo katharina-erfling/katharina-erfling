@@ -18,14 +18,14 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 `SISTRIX` `Ahrefs` `Canva` `Photoshop` `InDesign` `Jira` `Scrum` `Figma`
 
 ---
-
+<br>
 ## 🗂️ Projekte
 
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
 | [🐾 Lilyversell E-Commerce](https://github.com/katharina-erfling/lilyversell-ecommerce-business) | Vollständiges E-Commerce-Konzept für meinen eigenen Handmade-Shop – inkl. Marktanalyse, SEO-Strategie, Shop-Setup und Performance-Monitoring. Abschlussarbeit der E-Commerce-Manager:in-Zertifizierung (GFN) mit 98%. | `WooCommerce` `GA4` `SEO` `SISTRIX` |
-| [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/css_br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
-| [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML` `CSS3` `Responsive` |
+| [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/css_br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML5` `Bootstrap 5` `SCSS` `Responsive` |
+| [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML5` `CSS3` `Responsive` |
 
 ---
 
