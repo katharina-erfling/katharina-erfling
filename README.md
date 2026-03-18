@@ -26,7 +26,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
 | [🐾 Lilyversell E-Commerce](https://github.com/katharina-erfling/lilyversell-ecommerce-business) | Vollständiges E-Commerce-Konzept für meinen eigenen Handmade-Shop – inkl. Marktanalyse, SEO-Strategie, Shop-Setup und Performance-Monitoring. Abschlussarbeit der E-Commerce-Manager:in-Zertifizierung (GFN) mit 98%. | `WooCommerce` `GA4` `SEO` `SISTRIX` |
-| [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
+| [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/css_br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
 
 ---
 
