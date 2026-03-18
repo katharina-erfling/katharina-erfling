@@ -14,7 +14,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 `JavaScript` `React` `Node.js` `Git`
 
 **Tools:**
-`SISTRIX` `Ahrefs` `Canva` `Photoshop` `InDesign` `Jira` `Scrum`
+`SISTRIX` `Ahrefs` `Canva` `Photoshop` `InDesign` `Jira` `Scrum` `Figma`
 
 ---
 
