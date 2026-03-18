@@ -29,6 +29,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/css_br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
 | [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML` `CSS3` `Responsive` |
 | [🦕 Nessie](https://github.com/katharina-erfling/css_nessie) | Responsiver Frontend-Prototype einer Service-Partner-Seite mit fixierter Navigation, Hero-Section, scrollbarer Tabelle mit Status-Badges und Scroll-to-top-Funktion. | `HTML5` `CSS3` `Responsive` |
+| [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `Responsive` |
 ---
 <br>
 
