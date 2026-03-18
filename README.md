@@ -19,6 +19,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 ---
 <br>
+
 ## 🗂️ Projekte
 
 | Projekt | Beschreibung | Stack |
