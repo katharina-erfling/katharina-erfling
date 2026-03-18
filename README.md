@@ -5,6 +5,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 >📍 Bergisch Gladbach / Köln · offen für Remote & Hybrid
 
 ---
+<br>
 
 ## 🛠️ Skills
 
@@ -29,6 +30,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML5` `CSS3` `Responsive` |
 
 ---
+<br>
 
 ## 📚 Bücher, die mein Denken prägen
 
