@@ -3,6 +3,7 @@ Ich komme aus dem Content & SEO – und lerne gerade das Handwerk dahinter.
 Nach Jahren als Web & Content Specialist (u.a. Deutscher Sportverlag) und dem Aufbau meines eigenen WooCommerce-Shops bringe ich mir aktuell Frontend-Entwicklung bei: JavaScript, React, HTML/CSS – mit dem Ziel, nicht nur Content zu denken, sondern ihn auch technisch umzusetzen.
 Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX und technischer Umsetzung. Ich möchte Websites nicht nur befüllen – ich möchte verstehen, wie sie funktionieren.
 
+*📍 Bergisch Gladbach / Köln · offen für Remote & Hybrid*
 ---
 
 ## 🛠️ Skills
@@ -26,6 +27,9 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
 
 ---
+
+
+
 
 ## 📚 Bücher, die mein Denken prägen
 
@@ -59,6 +63,4 @@ Ich lese an der Schnittstelle zwischen Content-Strategie, UX, E-Commerce und Web
 
 > *Ich besitze diese Bücher – manche habe ich durchgearbeitet, bei manchen bin ich noch dabei.*
 
----
 
-*📍 Bergisch Gladbach / Köln · offen für Remote & Hybrid*
