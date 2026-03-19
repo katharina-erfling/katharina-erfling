@@ -32,6 +32,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `CSS Custom Properties` `:focus-visible` `:valid/:invalid` `Responsive` `Multi-Step Form` |
 | [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
 | [🧩 Header UI](https://github.com/katharina-erfling/css_header-ui) | Responsiver Header-Prototype mit nativer HTML Popover API für Nav-Dropdowns, Feature Detection Fallback, self-hosted Font Awesome (DSGVO-konform) und interaktiven Icon-Karten mit CSS-Tooltips. | `HTML5` `CSS3` `Popover API` `Progressive Enhancement` `Feature Detection` `Responsive` |
+| [🧪 CSS Experiments](https://github.com/katharina-erfling/css_experiments) | Wachsende Sammlung von CSS-Spielereien – Link Hover-Effekte, Loader-Animation, CSS Tooltip, Sibling-Fade und animierte Checkbox. Wird laufend erweitert. | `HTML5` `CSS3` `Animationen` `Pseudo-Elemente` `Work in Progress` |
 
 ---
 <br>
