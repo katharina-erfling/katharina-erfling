@@ -31,6 +31,8 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🦕 Nessie](https://github.com/katharina-erfling/css_nessie) | Responsiver Frontend-Prototype einer Service-Partner-Seite mit fixierter Navigation, Hero-Section, scrollbarer Tabelle mit Status-Badges und Scroll-to-top-Funktion. | `HTML5` `CSS3` `Flexbox` `Float→Flex Migration` `Responsive` `Scroll-to-top` |
 | [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `CSS Custom Properties` `:focus-visible` `:valid/:invalid` `Responsive` `Multi-Step Form` |
 | [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
+| [🧩 Header UI](https://github.com/katharina-erfling/css_header-ui) | Responsiver Header-Prototype mit nativer HTML Popover API für Nav-Dropdowns, Feature Detection Fallback, self-hosted Font Awesome (DSGVO-konform) und interaktiven Icon-Karten mit CSS-Tooltips. | `HTML5` `CSS3` `Popover API` `Progressive Enhancement` `Feature Detection` `Responsive` |
+
 ---
 <br>
 
