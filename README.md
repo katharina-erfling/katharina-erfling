@@ -13,7 +13,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 `SEO` `Content-Strategie` `WordPress` `WooCommerce` `Google Analytics 4` `Search Console` `HTML` `CSS` `SCSS` `Bootstrap` `Emmet`
 
 **Das lerne ich gerade:**
-`JavaScript` `React` `Node.js` `Git`
+`JavaScript` `Typescript` `React` `Git`
 
 **Tools:**
 `SISTRIX` `Ahrefs` `Canva` `Photoshop` `InDesign` `Jira` `Scrum` `Figma`
