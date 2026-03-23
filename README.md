@@ -33,13 +33,13 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
+| [🧪 CSS Experiments](https://github.com/katharina-erfling/css_experiments) | Wachsende Sammlung von CSS-Spielereien – Link Hover-Effekte, Loader-Animation, CSS Tooltip, Sibling-Fade und animierte Checkbox. Wird laufend erweitert. | `HTML5` `CSS3` `Animationen` `Pseudo-Elemente` `Work in Progress` |
 | [🏛️ BR Architects Portfolio](https://github.com/katharina-erfling/css_br-architects) | Responsive Architektur-Portfolio-Website – inkl. Hero, Projektgrid, Team-Bereich, Kontaktformular und Kartenansicht. Fokus auf sauberem SCSS-Aufbau, Bootstrap-Grid und selbst gehosteten Schriften (DSGVO-konform). | `HTML` `Bootstrap 5` `SCSS` `Responsive` |
 | [✈️ Reiseportal Prototype](https://github.com/katharina-erfling/css_reiseportal) | Responsiver Frontend-Prototype eines Reiseportals mit Hero-Section, Suchformular, zwei Bildergalerien und Hamburger-Menü für Mobile. | `HTML5` `CSS3` `Flexbox` `Responsive` `Hamburger-Menü` |
 | [🦕 Nessie](https://github.com/katharina-erfling/css_nessie) | Responsiver Frontend-Prototype einer Service-Partner-Seite mit fixierter Navigation, Hero-Section, scrollbarer Tabelle mit Status-Badges und Scroll-to-top-Funktion. | `HTML5` `CSS3` `Flexbox` `Float→Flex Migration` `Responsive` `Scroll-to-top` |
 | [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `CSS Custom Properties` `:focus-visible` `:valid/:invalid` `Responsive` `Multi-Step Form` |
 | [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
 | [🧩 Header UI](https://github.com/katharina-erfling/css_header-ui) | Responsiver Header-Prototype mit nativer HTML Popover API für Nav-Dropdowns, Feature Detection Fallback, self-hosted Font Awesome (DSGVO-konform) und interaktiven Icon-Karten mit CSS-Tooltips. | `HTML5` `CSS3` `Popover API` `Progressive Enhancement` `Feature Detection` `Responsive` |
-| [🧪 CSS Experiments](https://github.com/katharina-erfling/css_experiments) | Wachsende Sammlung von CSS-Spielereien – Link Hover-Effekte, Loader-Animation, CSS Tooltip, Sibling-Fade und animierte Checkbox. Wird laufend erweitert. | `HTML5` `CSS3` `Animationen` `Pseudo-Elemente` `Work in Progress` |
 
 ### 🟨 JavaScript
 
