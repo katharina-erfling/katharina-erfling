@@ -79,6 +79,7 @@ Ich lese an der Schnittstelle zwischen Content-Strategie, UX, E-Commerce und Web
 | **WordPress 6** – Florian Brinkmann | Mein täglich Brot – aber richtig verstehen, nicht nur bedienen |
 | **React** – Sebastian Springer | Wo ich gerade bin: JavaScript denken lernen, nicht nur schreiben |
 | **JavaScript – Das Handbuch für die Praxis** – David Flanagan | Das Referenzwerk, das man irgendwann einfach gelesen haben muss |
+| **Clean Code** – Robert C. Martin | Lesbarkeit von Code als Handwerk verstehen – nicht nur funktionieren, sondern verständlich sein |
 | **Künstliche Intelligenz – Wie sie funktioniert und wann sie scheitert** – Janelle Shane | KI nüchtern betrachten: was sie kann, was sie nicht kann |
 
 > *Ich besitze diese Bücher – manche habe ich durchgearbeitet, bei manchen bin ich noch dabei.*
