@@ -48,6 +48,13 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🤓 NerdWorld](https://github.com/katharina-erfling/js_nerd-world) | Fiktiver Online-Shop als Kurs-Begleitprojekt – wird im Laufe der Frontend Developer Zertifizierung (GFN / WPI) schrittweise mit JavaScript ausgebaut. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 | [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 
+### 🐍 Python
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [🐍 Python Experiments](https://github.com/katharina-erfling/py_experiments) | Wachsende Sammlung von Python-Übungen – rückwirkend dokumentiert aus der GFN-Weiterbildung. Wird laufend ergänzt. | `Python 3` `Work in Progress` |
+
+
 ---
 <br>
 
