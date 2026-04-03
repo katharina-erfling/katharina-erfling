@@ -23,6 +23,12 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 ## 🗂️ Projekte
 
+### 🤖 KI & Automatisierung
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [⚡ n8n Automations](https://github.com/katharina-erfling/n8n_automations) | Wachsende Sammlung praxisorientierter Workflows – u.a. Gmail Alert mit Telegram-Benachrichtigung und ein vollständiges Brand Monitoring System mit KI-Sentiment-Analyse, Live-Dashboard und wöchentlichem Report. | `n8n` `Claude AI` `Google Sheets` `Looker Studio` `Telegram` `Gmail` |
+
 ### 🛒 E-Commerce
 
 | Projekt | Beschreibung | Stack |
@@ -51,13 +57,11 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 | [🤓 NerdWorld](https://github.com/katharina-erfling/js_nerd-world) | Fiktiver Online-Shop als Kurs-Begleitprojekt – wird im Laufe der Frontend Developer Zertifizierung (GFN / WPI) schrittweise mit JavaScript ausgebaut. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 
-
 ### 🐍 Python
 
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
 | [🐍 Python Experiments](https://github.com/katharina-erfling/py_experiments) | Wachsende Sammlung von Python-Übungen – rückwirkend dokumentiert aus der GFN-Weiterbildung. Wird laufend ergänzt. | `Python 3` `Work in Progress` |
-
 
 ---
 <br>
