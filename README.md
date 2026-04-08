@@ -35,6 +35,16 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 |---------|-------------|-------|
 | [🐾 Lilyversell E-Commerce](https://github.com/katharina-erfling/lilyversell-ecommerce-business) | Vollständiges E-Commerce-Konzept für meinen eigenen Handmade-Shop – inkl. Marktanalyse, SEO-Strategie, Shop-Setup und Performance-Monitoring. Abschlussarbeit der E-Commerce-Manager:in-Zertifizierung (GFN) mit 98%. | `WooCommerce` `GA4` `SEO` `SISTRIX` |
 
+### 🟨 JavaScript
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [🃏 Royal Flush](https://github.com/katharina-erfling/js_royal-flush) | Funktionale JavaScript-Bibliothek zur Validierung von Pokerhänden – mit Funktionskomposition, Pure Functions und cleverer Straight-Erkennung per String-Matching. | `JavaScript` `ES6+` `Functional Programming` `Pure Functions` |
+| [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
+| [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
+| [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
+
+
 ### 🎨 CSS
 
 | Projekt | Beschreibung | Stack |
@@ -47,14 +57,6 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🔐 Login UI Prototype](https://github.com/katharina-erfling/css_login) | Mehrseitiger Login- und Registrierungs-Prototype mit vollständigem Auth-Flow: Login, Passwort-Reset und dreistufige Registrierung mit Fortschrittsbalken. | `HTML5` `CSS3` `CSS Custom Properties` `:focus-visible` `:valid/:invalid` `Responsive` `Multi-Step Form` |
 | [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
 | [🧩 Header UI](https://github.com/katharina-erfling/css_header-ui) | Responsiver Header-Prototype mit nativer HTML Popover API für Nav-Dropdowns, Feature Detection Fallback, self-hosted Font Awesome (DSGVO-konform) und interaktiven Icon-Karten mit CSS-Tooltips. | `HTML5` `CSS3` `Popover API` `Progressive Enhancement` `Feature Detection` `Responsive` |
-
-### 🟨 JavaScript
-
-| Projekt | Beschreibung | Stack |
-|---------|-------------|-------|
-| [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
-| [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
-| [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 
 
 ### 🐍 Python
