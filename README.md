@@ -46,6 +46,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
 | [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 <br>
+
 ### 🎨 CSS
 
 | Projekt | Beschreibung | Stack |
@@ -59,6 +60,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🌿 Plant Shop](https://github.com/katharina-erfling/css_plant-shop) | Responsiver Plant Shop Prototype mit Glassmorphism-Nav, CSS Scroll Snap Karussell, Hover-Animationen, Dark Mode und Fluid Typography – alles ohne JavaScript. | `HTML5` `CSS3` `CSS Grid` `Scroll Snap` `Dark Mode` |
 | [🧩 Header UI](https://github.com/katharina-erfling/css_header-ui) | Responsiver Header-Prototype mit nativer HTML Popover API für Nav-Dropdowns, Feature Detection Fallback, self-hosted Font Awesome (DSGVO-konform) und interaktiven Icon-Karten mit CSS-Tooltips. | `HTML5` `CSS3` `Popover API` `Progressive Enhancement` `Feature Detection` `Responsive` |
 <br>
+
 ### 🐍 Python
 
 | Projekt | Beschreibung | Stack |
