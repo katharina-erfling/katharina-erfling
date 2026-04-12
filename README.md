@@ -41,7 +41,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
-| [🟨 JS Mini Projects](https://github.com/katharina-erfling/js_mini-projects) | Sammlung kleiner aber vollständiger JS-Mini-Projekte – Profilkarten per DOM-Manipulation mit Destructuring & Defaults, rekursiver Delay-Button mit DOM-Objekt Pattern. Wird laufend erweitert. | `JavaScript` `ES6+` `DOM-Manipulation` `Bootstrap 5` `Work in Progress` |
+| [🧱 JS Mini Projects](https://github.com/katharina-erfling/js_mini-projects) | Sammlung kleiner aber vollständiger JS-Mini-Projekte – Profilkarten per DOM-Manipulation mit Destructuring & Defaults, rekursiver Delay-Button mit DOM-Objekt Pattern. Wird laufend erweitert. | `JavaScript` `ES6+` `DOM-Manipulation` `Bootstrap 5` `Work in Progress` |
 | [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
 | [🃏 Royal Flush](https://github.com/katharina-erfling/js_royal-flush) | Funktionale JavaScript-Bibliothek zur Validierung von Pokerhänden – mit Funktionskomposition, Pure Functions und cleverer Straight-Erkennung per String-Matching. | `JavaScript` `ES6+` `Functional Programming` `Pure Functions` |
 | [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
