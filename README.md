@@ -71,7 +71,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🐍 Python Experiments](https://github.com/katharina-erfling/py_experiments) | Wachsende Sammlung von Python-Übungen – rückwirkend dokumentiert aus der GFN-Weiterbildung. Wird laufend ergänzt. | `Python 3` `Work in Progress` |
 
 ---
-<br><br>
+<br><br><br>
 
 ## 📚 Bücher, die mein Denken prägen
 
