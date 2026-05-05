@@ -51,6 +51,14 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🍽️ Recipe Explorer Dashboard](https://github.com/katharina-erfling/js_recipe-explorer-dashboard) | Interaktives Rezept-Dashboard mit Suche, Detailmodal und Statistiken – gebaut mit Vanilla JS und der DummyJSON API. | `JavaScript` `ES6+` `fetch` `async/await` `DOM-Manipulation` |
 <br>
 
+## 🔷 TypeScript
+
+| Projekt | Beschreibung | Technologien |
+|--------|-------------|--------|
+| [🔷 TS Experiments](https://github.com/katharina-erfling/ts_experiments) | Wachsende Sammlung von TypeScript-Übungen – Typen, Interfaces, optionale Properties und mehr. Wird laufend erweitert. | `TypeScript` `ES6+` `Node.js` `Work in Progress` |
+
+<br>
+
 ### 🎨 CSS
 
 | Projekt | Beschreibung | Stack |
