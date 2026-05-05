@@ -48,6 +48,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
 | [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
 | [🪢 Hangman](https://github.com/katharina-erfling/js_hangman) | Ein klassisches Wort-Ratespiel in Vanilla JavaScript – Buchstabe für Buchstabe wird ein zufällig gewähltes Wort erraten. Mit Leben-System und Auflösung am Ende. | `JavaScript` `ES6+` |
+| [🍽️ Recipe Explorer Dashboard](https://github.com/katharina-erfling/js_recipe-explorer-dashboard) | Interaktives Rezept-Dashboard mit Suche, Detailmodal und Statistiken – gebaut mit Vanilla JS und der DummyJSON API. | `JavaScript` `ES6+` `fetch` `async/await` `DOM-Manipulation` |
 <br>
 
 ### 🎨 CSS
