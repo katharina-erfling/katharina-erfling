@@ -57,7 +57,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | Projekt | Beschreibung | Technologien |
 |--------|-------------|--------|
 | [🔷 TS Experiments](https://github.com/katharina-erfling/ts_experiments) | Wachsende Sammlung von TypeScript-Übungen – Typen, Interfaces, optionale Properties und mehr. Wird laufend erweitert. | `TypeScript` `ES6+` `Node.js` `Work in Progress` |
-| [🐾 PfotenKalorien](https://github.com/katharina-erfling/ts_dogcal) | Kalorienrechner für Hunde – berechnet kcal aus Nährstoffangaben auf der Verpackung nach der Modified Atwater Methode. Mit Kategorie-Auswahl für fehlende Feuchtigkeitsangaben, Validierung, Tastatursteuerung und Tooltip-Erklärung für Fachbegriffe. | `TypeScript` `HTML5` `CSS3` `DOM-Manipulation` |
+| [🐾 PfotenKalorien](https://github.com/katharina-erfling/ts_dogcalc) | Kalorienrechner für Hunde – berechnet kcal aus Nährstoffangaben auf der Verpackung nach der Modified Atwater Methode. Mit Kategorie-Auswahl für fehlende Feuchtigkeitsangaben, Validierung, Tastatursteuerung und Tooltip-Erklärung für Fachbegriffe. | `TypeScript` `HTML5` `CSS3` `DOM-Manipulation` |
 
 <br>
 
