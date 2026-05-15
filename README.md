@@ -10,10 +10,10 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 ## 🛠️ Skills
 
 **Das kann ich schon:**
-`HTML` `CSS` `SCSS` `Bootstrap` `Emmet` `SEO` `Content-Strategie` `WordPress` `WooCommerce` `Google Analytics 4` `Search Console` 
+`HTML` `CSS` `SCSS` `Bootstrap` `Emmet` `SEO` `Content-Strategie` `WordPress` `WooCommerce` `Google Analytics 4` `Search Console` `JavaScript` `Typescript` 
 
 **Das lerne ich gerade:**
-`JavaScript` `Typescript` `React` `Git`
+`React` `Git` `MongoDB`
 
 **Tools:**
 `SISTRIX` `Ahrefs` `Canva` `Photoshop` `InDesign` `Jira` `Scrum` `Figma`
