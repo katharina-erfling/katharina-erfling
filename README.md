@@ -61,6 +61,14 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 <br>
 
+### ⚛️ React
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [🐾 Sheltie Quiz](https://github.com/katharina-erfling/react_sheltie-quiz) | Interaktives Wissensquiz über Shetland Sheepdogs – erstes React-Projekt mit useState, dynamischem CSS-Klassen-System, Fortschrittsbalken und kontextsensitivem Feedback. | `React` `JavaScript` `ES6+` `CSS3` `Vite` |
+
+<br>
+
 ### 🎨 CSS
 
 | Projekt | Beschreibung | Stack |
