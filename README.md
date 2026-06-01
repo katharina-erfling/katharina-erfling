@@ -37,7 +37,18 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🐾 Lilyversell E-Commerce](https://github.com/katharina-erfling/lilyversell-ecommerce-business) | Vollständiges E-Commerce-Konzept für meinen eigenen Handmade-Shop – inkl. Marktanalyse, SEO-Strategie, Shop-Setup und Performance-Monitoring. Abschlussarbeit der E-Commerce-Manager:in-Zertifizierung (GFN) mit 98%. | `WooCommerce` `GA4` `SEO` `SISTRIX` |
 <br>
 
-### 🟨 JavaScript
+
+
+### ⚛️ React
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [🃏 Pokémon Trumpf](https://github.com/katharina-erfling/react_pokemon-trumpf) | Pokémon-Trumpf-Spiel mit echter PokéAPI-Anbindung, TCG-Typ-Farben, Kampfanimation und Pokéball-Kartenrückseite – mehrere React-States im Zusammenspiel. | `React` `JavaScript` `ES6+` `PokéAPI` `CSS3` `Vite` |
+| [🐾 Sheltie Quiz](https://github.com/katharina-erfling/react_sheltie-quiz) | Interaktives Wissensquiz über Shetland Sheepdogs – erstes React-Projekt mit useState, dynamischem CSS-Klassen-System, Fortschrittsbalken und kontextsensitivem Feedback. | `React` `JavaScript` `ES6+` `CSS3` `Vite` |
+
+<br>
+
+### 🟨 Vanilla-JavaScript
 
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
@@ -59,14 +70,6 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 | [🔷 TS Experiments](https://github.com/katharina-erfling/ts_experiments) | Wachsende Sammlung von TypeScript-Übungen – Typen, Interfaces, optionale Properties und mehr. Wird laufend erweitert. | `TypeScript` `ES6+` `Node.js` `Work in Progress` |
 | [🐾 PfotenKalorien](https://github.com/katharina-erfling/ts_dogcalc) | Kalorienrechner für Hunde – berechnet kcal aus Nährstoffangaben auf der Verpackung nach der Modified Atwater Methode. Mit Kategorie-Auswahl für fehlende Feuchtigkeitsangaben, Validierung, Tastatursteuerung und Tooltip-Erklärung für Fachbegriffe. | `TypeScript` `HTML5` `CSS3` `DOM-Manipulation` |
 
-<br>
-
-### ⚛️ React
-
-| Projekt | Beschreibung | Stack |
-|---------|-------------|-------|
-| [🃏 Pokémon Trumpf](https://github.com/katharina-erfling/react_pokemon-trumpf) | Pokémon-Trumpf-Spiel mit echter PokéAPI-Anbindung, TCG-Typ-Farben, Kampfanimation und Pokéball-Kartenrückseite – mehrere React-States im Zusammenspiel. | `React` `JavaScript` `ES6+` `PokéAPI` `CSS3` `Vite` |
-| [🐾 Sheltie Quiz](https://github.com/katharina-erfling/react_sheltie-quiz) | Interaktives Wissensquiz über Shetland Sheepdogs – erstes React-Projekt mit useState, dynamischem CSS-Klassen-System, Fortschrittsbalken und kontextsensitivem Feedback. | `React` `JavaScript` `ES6+` `CSS3` `Vite` |
 
 <br>
 
