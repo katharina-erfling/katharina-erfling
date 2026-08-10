@@ -23,6 +23,14 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 ## 🗂️ Projekte
 
+
+### 🎮 Games
+
+| Projekt | Beschreibung | Stack |
+| ------- | ------------ | ----- |
+| 🐴 Horse Game | 3D-Pferdespiel mit tiefgehender Reitmechanik, bei der Hilfengebung, Pferdeverhalten und Ausbildung ineinandergreifen. Geplant sind individuelle Pferde, Dressur und Springen, Turniersport, Stallmanagement, Zucht und eine erkundbare Spielwelt. | `3D` `Game Development` |
+
+
 ### 🤖 KI & Automatisierung
 
 | Projekt | Beschreibung | Stack |
