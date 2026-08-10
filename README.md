@@ -32,6 +32,23 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 <br>
 
+### 🟨 Vanilla-JavaScript
+
+| Projekt | Beschreibung | Stack |
+|---------|-------------|-------|
+| [📦 LilyStudio](https://github.com/katharina-erfling/js_lilystudio) | Browserbasierte All-in-One-Verwaltung für mein Handmade-Business Lilyversell – entwickelt als eigene Alternative zu klassischen Warenwirtschafts- und Inventarsystemen. Mit Materialverwaltung, Beständen & Meldebeständen, hierarchischen Kategorien, Lieferanten & Bezugsquellen, Nachbestellplanung, Einkaufspreisen, Bestellhistorie, Auswertungen, Datensicherung und umfangreichen Filter- und Bearbeitungsfunktionen. Wird kontinuierlich entlang realer Arbeitsabläufe weiterentwickelt. | `JavaScript` `ES6+` `HTML5` `CSS3` `IndexedDB` `DOM-Manipulation` `Drag & Drop` `Data Visualization` `Work in Progress` |
+| [🐾 RO Planer](https://github.com/katharina-erfling/js_ro-planer) | Browserbasierter Rally-Obedience-Parcoursplaner für Training und Parcoursplanung. Geplant als mehr als ein klassischer Parcourseditor: mit vollständiger Schilderbibliothek, Drag & Drop, regelbasierter Parcoursprüfung, Mehrschildübungen, Trainingsschwerpunkten sowie später automatisch generierten Parcours nach Leistungsklasse und Trainingsziel. Wird iterativ anhand der praktischen Nutzung und des VDH-Regelwerks Rally Obedience weiterentwickelt. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Drag & Drop` `LocalStorage` `Rule-Based Logic` `Work in Progress` |
+| [🧱 JS Mini Projects](https://github.com/katharina-erfling/js_mini-projects) | Sammlung kleiner aber vollständiger JS-Mini-Projekte – Profilkarten per DOM-Manipulation mit Destructuring & Defaults, rekursiver Delay-Button mit DOM-Objekt Pattern. Wird laufend erweitert. | `JavaScript` `ES6+` `DOM-Manipulation` `Bootstrap 5` `Work in Progress` |
+| [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
+| [🎧 Ambient Chaos](https://github.com/katharina-erfling/js_ambient-chaos) | Interaktiver Ambient-Sound-Mixer – 15 Umgebungsgeräusche gleichzeitig mischbar. Der Kartenrahmen ist gleichzeitig der Lautstärkeregler: ein Punkt bewegt sich per Drag entlang des SVG-Rahmens und steuert Lautstärke und Wiedergabe. | `JavaScript` `ES6+` `SVG` `Web Audio API` `DOM-Manipulation` `CSS Custom Properties` |
+| [🃏 Memory](https://github.com/katharina-erfling/js_memory) | Browserbasiertes Memory-Spiel mit Casino-Design – 3D-Kartenanimation rein per CSS, Fisher-Yates Shuffle, dynamischer Kartenaufbau per createElement und Sperrmechanismus gegen Doppelklicks. | `JavaScript` `ES6+` `CSS3` `3D-Transform` `DOM-Manipulation` |
+| [🃏 Royal Flush](https://github.com/katharina-erfling/js_royal-flush) | Funktionale JavaScript-Bibliothek zur Validierung von Pokerhänden – mit Funktionskomposition, Pure Functions und cleverer Straight-Erkennung per String-Matching. | `JavaScript` `ES6+` `Functional Programming` `Pure Functions` |
+| [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
+| [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
+| [🪢 Hangman](https://github.com/katharina-erfling/js_hangman) | Ein klassisches Wort-Ratespiel in Vanilla JavaScript – Buchstabe für Buchstabe wird ein zufällig gewähltes Wort erraten. Mit Leben-System und Auflösung am Ende. | `JavaScript` `ES6+` |
+| [🍽️ Recipe Explorer Dashboard](https://github.com/katharina-erfling/js_recipe-explorer-dashboard) | Interaktives Rezept-Dashboard mit Suche, Detailmodal und Statistiken – gebaut mit Vanilla JS und der DummyJSON API. | `JavaScript` `ES6+` `fetch` `async/await` `DOM-Manipulation` |
+<br>
+
 ### 🤖 KI & Automatisierung
 
 | Projekt | Beschreibung | Stack |
@@ -57,22 +74,7 @@ Was mich antreibt: die Schnittstelle zwischen guten Inhalten, durchdachter UX un
 
 <br>
 
-### 🟨 Vanilla-JavaScript
 
-| Projekt | Beschreibung | Stack |
-|---------|-------------|-------|
-| [📦 LilyStudio](https://github.com/katharina-erfling/js_lilystudio) | Browserbasierte All-in-One-Verwaltung für mein Handmade-Business Lilyversell – entwickelt als eigene Alternative zu klassischen Warenwirtschafts- und Inventarsystemen. Mit Materialverwaltung, Beständen & Meldebeständen, hierarchischen Kategorien, Lieferanten & Bezugsquellen, Nachbestellplanung, Einkaufspreisen, Bestellhistorie, Auswertungen, Datensicherung und umfangreichen Filter- und Bearbeitungsfunktionen. Wird kontinuierlich entlang realer Arbeitsabläufe weiterentwickelt. | `JavaScript` `ES6+` `HTML5` `CSS3` `IndexedDB` `DOM-Manipulation` `Drag & Drop` `Data Visualization` `Work in Progress` |
-| [🐾 RO Planer](https://github.com/katharina-erfling/js_ro-planer) | Browserbasierter Rally-Obedience-Parcoursplaner für Training und Parcoursplanung. Geplant als mehr als ein klassischer Parcourseditor: mit vollständiger Schilderbibliothek, Drag & Drop, regelbasierter Parcoursprüfung, Mehrschildübungen, Trainingsschwerpunkten sowie später automatisch generierten Parcours nach Leistungsklasse und Trainingsziel. Wird iterativ anhand der praktischen Nutzung und des VDH-Regelwerks Rally Obedience weiterentwickelt. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Drag & Drop` `LocalStorage` `Rule-Based Logic` `Work in Progress` |
-| [🧱 JS Mini Projects](https://github.com/katharina-erfling/js_mini-projects) | Sammlung kleiner aber vollständiger JS-Mini-Projekte – Profilkarten per DOM-Manipulation mit Destructuring & Defaults, rekursiver Delay-Button mit DOM-Objekt Pattern. Wird laufend erweitert. | `JavaScript` `ES6+` `DOM-Manipulation` `Bootstrap 5` `Work in Progress` |
-| [🧪 JS Experiments](https://github.com/katharina-erfling/js_experiments) | Wachsende Sammlung von JavaScript-Übungen und Mini-Projekten – entstanden beim Lernen im Rahmen der Frontend Developer Zertifizierung (GFN / WPI). Wird laufend erweitert. | `JavaScript` `ES6+` `HTML5` `CSS3` `Work in Progress` |
-| [🎧 Ambient Chaos](https://github.com/katharina-erfling/js_ambient-chaos) | Interaktiver Ambient-Sound-Mixer – 15 Umgebungsgeräusche gleichzeitig mischbar. Der Kartenrahmen ist gleichzeitig der Lautstärkeregler: ein Punkt bewegt sich per Drag entlang des SVG-Rahmens und steuert Lautstärke und Wiedergabe. | `JavaScript` `ES6+` `SVG` `Web Audio API` `DOM-Manipulation` `CSS Custom Properties` |
-| [🃏 Memory](https://github.com/katharina-erfling/js_memory) | Browserbasiertes Memory-Spiel mit Casino-Design – 3D-Kartenanimation rein per CSS, Fisher-Yates Shuffle, dynamischer Kartenaufbau per createElement und Sperrmechanismus gegen Doppelklicks. | `JavaScript` `ES6+` `CSS3` `3D-Transform` `DOM-Manipulation` |
-| [🃏 Royal Flush](https://github.com/katharina-erfling/js_royal-flush) | Funktionale JavaScript-Bibliothek zur Validierung von Pokerhänden – mit Funktionskomposition, Pure Functions und cleverer Straight-Erkennung per String-Matching. | `JavaScript` `ES6+` `Functional Programming` `Pure Functions` |
-| [🧮 GLaDOS Mini Calculator](https://github.com/katharina-erfling/js_calculator) | Voll funktionsfähiger Taschenrechner im Retro-Synthwave-Look – mit Tastaturunterstützung, Event Delegation, Ketteneingabe und Gleitkomma-Fix. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `Event Delegation` |
-| [🎯 Guess the Number](https://github.com/katharina-erfling/js_guess-the-number) | Browserbasiertes Zahlenratespiel – zufällige Zahl zwischen 1 und 20, Hinweise ob größer/kleiner, Konfetti-Animation bei einem Treffer. | `JavaScript` `ES6+` `HTML5` `CSS3` `DOM-Manipulation` `js-confetti` |
-| [🪢 Hangman](https://github.com/katharina-erfling/js_hangman) | Ein klassisches Wort-Ratespiel in Vanilla JavaScript – Buchstabe für Buchstabe wird ein zufällig gewähltes Wort erraten. Mit Leben-System und Auflösung am Ende. | `JavaScript` `ES6+` |
-| [🍽️ Recipe Explorer Dashboard](https://github.com/katharina-erfling/js_recipe-explorer-dashboard) | Interaktives Rezept-Dashboard mit Suche, Detailmodal und Statistiken – gebaut mit Vanilla JS und der DummyJSON API. | `JavaScript` `ES6+` `fetch` `async/await` `DOM-Manipulation` |
-<br>
 
 ## 🔷 TypeScript
 
